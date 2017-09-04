@@ -1,5 +1,6 @@
 # 常用javascript函数
->截取url参数
+
+
 ```javascript
 //截取url参数
 let getUrlParam = function(name) {
@@ -12,6 +13,7 @@ let getUrlParam = function(name) {
 		}
 	}
 ```
+
 
 ```javascript
     /** 
